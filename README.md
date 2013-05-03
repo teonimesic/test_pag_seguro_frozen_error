@@ -11,4 +11,4 @@ utilizando ruby 1.9.2-p290, faça:
     rake db:setup
     bundle exec rails s
 
-Após isto, basta iniciar o servidor com `rails s` e abrir `localhost:3000`
+Após isto, basta abrir http://localhost:3000 que deverá ser redirecionado a página de compra no pag seguro.
